@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ebissa Chemeda</h1>
-<h3 align="center">A passionate frontstack developer from Ethiopia</h3>
+<h3 align="center">A passionate full stack developer from Ethiopia</h3>
 <img align="right"alt="coding" width="400"src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebissa&label=Profile%20views&color=0e75b6&style=flat" alt="ebissa" /> </p>
